@@ -19,8 +19,12 @@
 ### 这是咱的赞助渠道😋  
 [![爱发电][link-afdian]](https://afdian.net/@Miki_Lin)  
   
-[![Luna-Admin](https://img.shields.io/badge/Luna-Admin-blueviolet)](https://github.com/MikiLin-wiviw) [![Miki-Studio](https://img.shields.io/badge/Miki-Studio-9cf)](https://github.com/MikiLin-wiviw) 
-[![Team-MikoTiko](https://img.shields.io/badge/Team-MikoTiko-blue)](https://github.com/MikiLin-wiviw)
+[![Luna-Admin](https://img.shields.io/badge/Luna-Admin-blueviolet)](https://github.com/MikiLin-wiviw) 
+[![Miki-Studio](https://img.shields.io/badge/Miki-Studio-9cf)](https://github.com/MikiLin-wiviw) 
+[![Team-MikoTiko](https://img.shields.io/badge/Team-MikoTiko-blue)](https://github.com/MikiLin-wiviw) 
+[![Mi-Fans](https://img.shields.io/badge/Xiaomi-Fans-orange)](https://www.mi.com/index.html) 
+[![NIH-NCBI](https://img.shields.io/badge/NIH-NCBI-lightgrey)](https://www.ncbi.nlm.nih.gov) 
+[![Microsoft-Community](https://img.shields.io/badge/Microsoft-Community-blue)](https://answers.microsoft.com) 
 
 
 [link-twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600  

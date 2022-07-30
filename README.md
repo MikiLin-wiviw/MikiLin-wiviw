@@ -13,11 +13,13 @@
 - ✒️咱的专业是**平面设计（Graphic Design）**  
 主要的风格可以理解为 **偏向简约 + 自然 + 轻科技** 的风格，感兴趣的小伙伴可以去推特上查看往期我的作品哦  
 - ☕有小伙伴可以请咱喝一杯雀巢咖啡么？嘛嘛，其实是赞助啦 hhhh  
-Stickie-Template 是完全免费的，请勿相信任何贩售渠道！  
+**Stickie-Template 是完全免费的，请勿相信任何贩售渠道!**  
 赞助频道和普通频道并无实际性的差距，也许咱会将一些设计思路放在赞助频道中，或者一些特殊的原创模板文件  
 感兴趣的小伙伴可以来看看哦，可能一些设计思路会对你有所帮助。无论赞助与否，感谢每一位小伙伴的支持！  
 ### 这是咱的赞助渠道😋  
-[![爱发电][link-afdian]](https://afdian.net/@Miki_Lin)
+[![爱发电][link-afdian]](https://afdian.net/@Miki_Lin)  
+  
+https://img.shields.io/badge/Luna-Admin-blueviolet https://img.shields.io/badge/Miki-Studio-9cf
 
 
 [link-twitter]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2FMiki_Lin_CN&query=count&color=1da1f2&label=Twitter&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600  

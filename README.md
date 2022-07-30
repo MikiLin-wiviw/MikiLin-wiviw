@@ -1,5 +1,5 @@
-### Hi there 👋
-Here are some ideas to get you started:
+### 氦！各位小伙伴好鸭😋
+咱是霖朴（CN）英文名是：Miki_Lin
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

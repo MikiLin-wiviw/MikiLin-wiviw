@@ -1,14 +1,16 @@
 ### 氦！各位小伙伴好鸭😋
 咱是霖朴（CN）英文名是：Miki_Lin  
-| 本人是 MTF🏳️‍⚧️，如果介意的小伙伴可以选择绕道  
-| 谢谢您的配合~😊  
+|  本人是 MTF🏳️‍⚧️，如果介意的小伙伴可以选择绕道  
+|  谢谢您的配合~😊  
 
 - 🦫 Github 咱不怎么玩，基本上就是咱公开的一些工程模板  
 想找咱玩或者了解咱的日常的小伙伴，可以去咱的 Twitter上看看哦，B站上也会投稿一些我的视频  
 咱的社交圈不怎么大，以前可能有些小伙伴从某个圈子听过咱，但请不要讨论啦，咱退圈有段时间了  
   
 ### 这些是咱的主要活动社区🤭  
-[![Twitter][link-twitter]](https://twitter.com/Miki_Lin_CN)，[![哔哩哔哩][link-bilibili]](https://space.bilibili.com/22974524)
+[![Twitter][link-twitter]](https://twitter.com/Miki_Lin_CN) [![哔哩哔哩][link-bilibili]](https://space.bilibili.com/22974524)  
+  
+- ✒️咱的专业是**平面设计（Graphic Design）**
 
 
 

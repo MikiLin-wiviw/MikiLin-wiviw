@@ -23,7 +23,6 @@
 无论赞助与否，感谢每一位小伙伴的支持！  
 ### 咱的主要项目📑
 [![Miki-Stickie-Card][Card1]](https://github.com/MikiLin-wiviw/Miki-Stickie)
-[![T-Calendar][Card2]](https://github.com/MikiLin-wiviw/T-Calendar)  
 
 ### 这是咱的赞助渠道😋  
 [![爱发电][link-afdian]](https://afdian.net/@Miki_Lin)  

@@ -23,14 +23,10 @@
 无论赞助与否，感谢每一位小伙伴的支持！  
 ### 咱的主要项目📑
 [![Miki-Stickie-Card][Card1]](https://github.com/MikiLin-wiviw/Miki-Stickie)
-
-### 这是咱的赞助渠道😋  
-[![爱发电][link-afdian]](https://afdian.net/@Miki_Lin)  
   
 [![Miki-Studio](https://img.shields.io/badge/Miki-Studio-9cf)](https://github.com/MikiLin-wiviw) 
 [![Team-MikoTiko](https://img.shields.io/badge/Team-MikoTiko-blue)](https://github.com/MikiLin-wiviw) 
 [![Mi-Fans](https://img.shields.io/badge/Xiaomi-Fans-orange)](https://www.mi.com/index.html) 
-[![Luna-Admin](https://img.shields.io/badge/Luna-Admin-blueviolet)](https://github.com/MikiLin-wiviw) 
 [![NIH-NCBI](https://img.shields.io/badge/NIH-NCBI-lightgrey)](https://www.ncbi.nlm.nih.gov) 
 [![Microsoft-Community](https://img.shields.io/badge/Microsoft-Community-blue)](https://answers.microsoft.com) 
 
